@@ -1,0 +1,28 @@
+{
+  "name": "ed-notes",
+  "version": "1.0.0",
+  "description": "📝 Un module Node.js permettant de communiquer facilement à l'API Notes d'EcoleDirecte",
+  "main": "index.js",
+  "type": "module",
+  "author": "CloneDirecte Team <contact@clonedirecte.cf>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "ecoledirecte",
+    "nodejs",
+    "clonedirecte"
+  ],
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CloneDirecte/ed-notes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CloneDirecte/ed-notes/issues"
+  },
+  "homepage": "https://github.com/CloneDirecte/ed-notes"
+}
